@@ -1,0 +1,1 @@
+C:\Users\alonv\Projects\windowsControl\client\client.csproj;x86

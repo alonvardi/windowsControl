@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WindowsController (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WindowsController (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
